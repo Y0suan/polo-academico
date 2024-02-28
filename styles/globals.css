@@ -1,3 +1,71 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.flayer{
+    overflow: hidden;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    @apply text-5xl  font-bold 
+}
+h1{
+    @apply text-6xl font-bold text-gray-900
+}
+p{
+    @apply text-base
+}
+.fondo-img-tres{
+    background-image: linear-gradient(
+        6deg,
+        rgba(28, 27, 29, 0.7) 0%,
+        rgba(31, 31, 32, 0.7) 100%
+      ),url('https://comunicacion.misiones.gob.ar/wp-content/uploads/2023/06/Eldorado-expo-carreras.jpg');
+      background-size: cover;
+}
+.btn-Primary{
+    @apply shadow bg-orange-500 w-fit p-2 px-6 rounded-tl-sm  font-medium rounded-2xl 
+}
+.fondo-img-dos{
+    background-image: linear-gradient(
+        6deg,
+        rgba(28, 27, 29, 0.7) 0%,
+        rgba(31, 31, 32, 0.7) 100%
+      ),url('https://anguacurari.com.ar/wp-content/uploads/2022/08/IMG-20220802-WA0122.jpg');
+      background-size: cover;
+}
+.fondo-img-uno{
+    background-image: linear-gradient(
+        6deg,
+        rgba(28, 27, 29, 0.7) 0%,
+        rgba(31, 31, 32, 0.7) 100%
+      ),url('https://anguacurari.com.ar/wp-content/uploads/2022/08/IMG-20220802-WA0123.jpg');
+      background-size: cover;
+}
+
+
+
+.btn-Primary{
+    @apply shadow bg-orange-500 w-fit p-2 px-6 rounded-tl-sm  font-medium rounded-2xl 
+}
+
+
+
+.card{
+    @apply sm:w-72 w-96 h-auto shadow rounded overflow-hidden bg-slate-50
+}
+.card img{
+    @apply rounded w-screen
+}
+.card h3{
+    @apply text-xl font-semibold
+}
+.card p{
+    @apply text-sm text-gray-500 
+}
