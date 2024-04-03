@@ -6,7 +6,7 @@ export const Noticias = () => {
         <h1>Ultimas noticias</h1>
         <div className=' w-screen sm:px-40 flex justify-evenly sm:flex-row flex-col sm:gap-0 gap-4  sm:items-start items-center ' >
             <div className='card' >
-                <img src='https://scontent.fres2-1.fna.fbcdn.net/v/t39.30808-6/335127589_164214219782994_76049802838181505_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeHH-YU54atK96WtkwCGzD_A-LzXfeiKogP4vNd96IqiA08vCghf4rP9ncsBtYwwpbuxmkKAUe0Wg0Og6enQq1dO&_nc_ohc=VeFKvk6yuekAX-xrHk_&_nc_ht=scontent.fres2-1.fna&oh=00_AfA1DTgMPL1ohxSmK7bQO1niCwQpx3RmYHxB7c0-wjS02Q&oe=65E34544' ></img>
+                <img src='https://scontent.fcnq2-2.fna.fbcdn.net/v/t39.30808-6/335127589_164214219782994_76049802838181505_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHH-YU54atK96WtkwCGzD_A-LzXfeiKogP4vNd96IqiA08vCghf4rP9ncsBtYwwpbuxmkKAUe0Wg0Og6enQq1dO&_nc_ohc=mqXXjxpYDcUAX_MyfVd&_nc_ht=scontent.fcnq2-2.fna&oh=00_AfCroI8sHqRtVvbxKXM5mSQbox1DIfrg97GhaFV_jBX2-Q&oe=6612F384' ></img>
                 <div className='flex flex-col p-3 gap-3' >
                 <h3>Inscripciones Becas Progresar</h3>
                 <p>
@@ -15,16 +15,15 @@ export const Noticias = () => {
                 </div>
             </div>
             <div className='card' >
-                <img src='https://scontent.fres2-1.fna.fbcdn.net/v/t39.30808-6/298942538_748653646091627_8432354950525946062_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeFnXC8Z6aXSAtnHYrijtJg7T_TIaCCJiK9P9MhoIImIr6tFVxrOxwWH2qpdCywJzXTpdGxBHP4HWmnBKGcz9rZT&_nc_ohc=jdfZEN_VFdgAX--heq_&_nc_ht=scontent.fres2-1.fna&oh=00_AfCBWsnOw3AlDPpbtWsdVATBa0M14koRe0wXWBaZY4gjOQ&oe=65E20A73' ></img>
+                <img src='https://scontent.fcnq2-1.fna.fbcdn.net/v/t39.30808-6/298611692_439751604861991_3896035646195181954_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG_mttVGgp43SdBxfee10nWXM6ZSjjoVLJczplKOOhUsozNgKm2oO782n_ygEwXQtyfOBzTbRhQud0QtL5ghFvX&_nc_ohc=Zyf0IQftyQIAX_uqx3Y&_nc_ht=scontent.fcnq2-1.fna&oh=00_AfA_lKPJArlnIhu02Z0FhXW1XA8dAf1_hbyT18-ktBpSNw&oe=66131720' ></img>
                 <div className='flex flex-col p-3 gap-3' >
                 <h3>Expo Secundaria 2022</h3>
                 <p>
-                Expo Secundaria 2022-1era Edicion-
-Seguimos trabajando para fortalecer la educacion👇        </p>
+                Expo Secundaria 2022-1era Edicion-Seguimos trabajando para fortalecer la educacion👇</p>
                 </div>
             </div>
             <div className='card' >
-                <img src='https://scontent.fres2-1.fna.fbcdn.net/v/t39.30808-6/297745463_739430340347291_2774871471501868049_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFJRqow7bMhFr7dCyh5m75xQiWRb5x6EFFCJZFvnHoQUdL7tOtjAtND40QQHBEFqnJjQwTPv0ZaCdqVyrXgFkjz&_nc_ohc=DOahHiI88ewAX-seg6n&_nc_ht=scontent.fres2-1.fna&oh=00_AfCMkdVGo_oFzbcb-eFBBuPXkiY8No5Dng4SLw8axodLkw&oe=65E20857' ></img>
+                <img src='https://scontent.fcnq2-1.fna.fbcdn.net/v/t39.30808-6/298384143_437410525096099_5439161245747320051_n.jpg?stp=dst-jpg_p526x296&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEXsXcK7qq_TRZ0mklA7Den3yJTsmk7a_vfIlOyaTtr-yDGr7Mb0UXDzgsgTOenFbbo0QgeQEjLRr4OTrJttwHb&_nc_ohc=yDEKZJjfs5sAX_2K6dS&_nc_ht=scontent.fcnq2-1.fna&oh=00_AfDD_ISfvjNtp8nkJ4gSfVz1KT-5ORv9mqqKBIAsPxWk7g&oe=66130849' ></img>
                 <div className='flex flex-col p-3 gap-3' >
                 <h3>Expo Carreras</h3>
                 <p>
@@ -37,3 +36,4 @@ Seguimos trabajando para fortalecer la educacion👇        </p>
     </div>
   )
 }
+
